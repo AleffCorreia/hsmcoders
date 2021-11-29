@@ -52,7 +52,7 @@ async function criarCurso(request, response) {
         imagePath: filePath,
         professor: professor,
         aulas: aulas,
-        createAt: createdAt,
+        createdAt: createdAt,
         updatedAt: updatedAt,
     }
 
@@ -78,7 +78,7 @@ function atualizarCurso(request, response) {
    const filePath = request.file ? request.file.path : cursoExists.imagePath;
 
     const updatedAt = new Date();
-
+    
     const data = {
         id: cursoExists.id,
         titulo: titulo ? titulo : cursoExists.titulo,
@@ -86,7 +86,9 @@ function atualizarCurso(request, response) {
         imagePath: filePath,
         professor: professor ? professor : cursoExists.professor,
         aulas: aulas ? aulas : cursoExists.aulas,
+        createdAt: cursoExists.createdAt,
         updatedAt: updatedAt,
+        
     }
 
     try {

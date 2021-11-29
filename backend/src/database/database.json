@@ -1,5 +1,31 @@
 {
   "cursos": [
- 
+    {
+      "id": 1,
+      "titulo": "Educação Financeira",
+      "descricao": "Educação e Gestão Financeira",
+      "imagePath": "src\\uploads\\8d75351ab5cb80a347334113ba0f0461",
+      "professor": "Hermes Trismegistus",
+      "aulas": [
+        "http://localhost:3001/educacao_financeira/aula1",
+        "http://localhost:3001/educacao_financeira/aula2",
+        "http://localhost:3001/educacao_financeira/aula3"
+      ],
+      "createdAt": "2021-11-29T14:11:05.682Z",
+      "updatedAt": "2021-11-29T14:12:17.586Z"
+    },
+    {
+      "id": 2,
+      "titulo": "Investimentos",
+      "imagePath": "src\\uploads\\9bd37b23cc0ff1aecf8d1fe8be66176e",
+      "professor": "Hermes Trismegistus",
+      "aulas": [
+        "http://localhost:3001/investimentos/aula1",
+        "http://localhost:3001/investimentos/aula2",
+        "http://localhost:3001/investimentos/aula3"
+      ],
+      "createdAt": "2021-11-29T14:12:10.908Z",
+      "updatedAt": "2021-11-29T14:12:10.908Z"
+    }
   ]
 }
