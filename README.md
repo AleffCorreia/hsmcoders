@@ -1,1 +1,21 @@
 # HMS Coders - Gama Academy
+
+## Projeto
+    Construção de um sistema de gerenciamento de conteúdo em Javascript para uma empresa de Edução Financeira.
+
+
+## Dependências
+    * NodeJS
+    * Express
+    * Multer
+    * CORS
+        Dev Dependências:
+            * nodemon
+
+## Executar
+    1. Executar o yarn add na pasta backend
+    2. Excutar yarn serve
+    3. Executar requisições rest no localhost:3001/cursos
+
+## Observações
+    
