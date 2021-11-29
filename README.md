@@ -9,13 +9,13 @@
     * Express
     * Multer
     * CORS
-        ### Dev Dependências:
-            * nodemon
+    
+## Dev Dependências:
+    * nodemon
 
 ## Executar
     1. Executar o yarn add na pasta backend
-    2. Excutar yarn serve
+    2. Executar yarn serve
     3. Executar requisições rest no localhost:3001/cursos
 
-## Observações
     
