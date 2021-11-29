@@ -1,7 +1,7 @@
 # HMS Coders - Gama Academy
 
 ## Projeto
-    Construção de um sistema de gerenciamento de conteúdo em Javascript para uma empresa de Edução Financeira.
+    Construção de um sistema de gerenciamento de conteúdo em Javascript para uma plataforma de Educação Financeira.
 
 
 ## Dependências
@@ -9,7 +9,7 @@
     * Express
     * Multer
     * CORS
-        Dev Dependências:
+        ### Dev Dependências:
             * nodemon
 
 ## Executar
