@@ -1,4 +1,4 @@
-# HMS Coders - Gama Academy
+# HSM Coders - Gama Academy
 
 ## Projeto
     Construção de um sistema de gerenciamento de conteúdo em Javascript para uma plataforma de Educação Financeira.
