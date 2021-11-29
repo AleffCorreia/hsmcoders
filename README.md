@@ -14,8 +14,8 @@
     * nodemon
 
 ## Executar
-    1. Executar o yarn add na pasta backend
-    2. Executar yarn serve
+    1. Executar o comando yarn na pasta backend
+    2. Executar o comando yarn serve
     3. Executar requisições rest no localhost:3001/cursos
 
     
